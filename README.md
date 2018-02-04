@@ -6,10 +6,10 @@ Existem diversas possibilidades para esse tipo de programação, podendo automat
 Já utilizei softwares para criar rotinas de automação na web, além de utilizar extensões de navegadores para tarefas mais simples, mas pretendo aprender cada vez mais nesta área.
 
 Links interessantes:
-- [PHP Web Scraping @lorien](https://github.com/lorien/awesome-web-scraping/blob/master/php.md#php-web-scraping)
-- [Web Scraping Console Tools @lorien](https://github.com/lorien/awesome-web-scraping/blob/master/console_tools.md#console-tools)
-- [Web Scraping Books @lorien](https://github.com/lorien/awesome-web-scraping/blob/master/books.md)
-- [Web Scraping Web Services @lorien](https://github.com/lorien/awesome-web-scraping/blob/master/web_services.md)
+* [PHP Web Scraping @lorien](https://github.com/lorien/awesome-web-scraping/blob/master/php.md#php-web-scraping)
+* [Web Scraping Console Tools @lorien](https://github.com/lorien/awesome-web-scraping/blob/master/console_tools.md#console-tools)
+* [Web Scraping Books @lorien](https://github.com/lorien/awesome-web-scraping/blob/master/books.md)
+* [Web Scraping Web Services @lorien](https://github.com/lorien/awesome-web-scraping/blob/master/web_services.md)
 * [Guia para iniciantes de Web Scraping em Python (usando BeautifulSoup)](https://www.vooo.pro/insights/guia-para-iniciantes-de-web-scraping-em-python-usando-beautifulsoup/)
 * [Youtube - Mini Curso Web Scraping com Python + BeautifulSoup + Requests](https://www.youtube.com/watch?v=7C6uV_kCMJU)
 * [Aprendendo sobre web scraping em Python utilizando BeautifulSoup](https://imasters.com.br/desenvolvimento/aprendendo-sobre-web-scraping-em-python-utilizando-beautifulsoup/?trace=1519021197&source=single)
@@ -19,28 +19,20 @@ Links interessantes:
 * [Web Scraping e Web Crawler – Introdução e Passos Iniciais](http://netcoders.com.br/web-crawler-introducao-e-passos-iniciais/)
 * [Ebook Pago - Web Scraping for PHP developers](https://leanpub.com/web-scraping)
 * [Top 10 Best Web Scraping Books](https://nocodewebscraping.com/top-10-web-scraping-books/)
-* [DataQuest](https://www.dataquest.io/)
+* [DataQuest - Cursos](https://www.dataquest.io/)
 * [WebScraper IO](http://webscraper.io/tutorials)
-* https://pythonhelp.wordpress.com/2014/08/05/web-scraping-com-scrapy-primeiros-passos/
-* https://imasters.com.br/desenvolvimento/aprendendo-sobre-web-scraping-em-python-utilizando-beautifulsoup/?trace=1519021197&source=single
-* https://www.dataquest.io/path/data-analyst
-* https://www.dataquest.io/path/data-scientist
-* https://www.dataquest.io/course/apis-and-scraping
-* https://scrapy.org/
-* https://doc.scrapy.org/en/latest/
-* http://scrapy.readthedocs.io/en/latest/intro/tutorial.html
-* https://pythonhelp.wordpress.com/tag/web-crawling/ para preencher formulários
-* https://pythonhelp.wordpress.com/2013/03/18/webscraping-em-python/
-* http://pythonclub.com.br/material-do-tutorial-web-scraping-na-nuvem.html
-* https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
-* https://speakerdeck.com/eliasdorneles/explorando-scrapy-alem-do-tutorial
-* https://scrapinghub.com/scrapy-cloud
-* https://github.com/allanw/scrapy_test
-* http://scrapyd.readthedocs.io/en/stable/
-* https://github.com/sangaline/advanced-web-scraping-tutorial
-* https://github.com/SeleniumHQ/selenium
-* http://sangaline.com/post/advanced-web-scraping-tutorial/
-* https://doc.scrapy.org/en/latest/intro/tutorial.html
+* [Scrapy Python Primeiros Passos](https://pythonhelp.wordpress.com/2014/08/05/web-scraping-com-scrapy-primeiros-passos/)
+* [Scrapy](https://scrapy.org/)
+* [Scrapy Tutorial](http://scrapy.readthedocs.io/en/latest/intro/tutorial.html)
+* [Python - Preenchimento de Formulários](https://pythonhelp.wordpress.com/tag/web-crawling/)
+* [PythonClub - Web Scraping na Nuvem](http://pythonclub.com.br/material-do-tutorial-web-scraping-na-nuvem.html)
+* [Outro tutorial (em inglês) de scrapy](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/)
+* [Mais um tutorial de scrapy @speakerdeck](https://speakerdeck.com/eliasdorneles/explorando-scrapy-alem-do-tutorial)
+* [scrapinghub scrapy cloud](https://scrapinghub.com/scrapy-cloud)
+* [scrapy test @allanw](https://github.com/allanw/scrapy_test)
+* [scrapyd](http://scrapyd.readthedocs.io/en/stable/)
+* [@sangaline - advanced web scraping tutorial](https://github.com/sangaline/advanced-web-scraping-tutorial)
+* [Selenium](https://github.com/SeleniumHQ/selenium)
 * [Youtube - Python Web Scraping Tutorial 1 (Intro To Web Scraping)](https://www.youtube.com/watch?v=E7wB__M9fdw)
-* http://analystcave.com/web-scraping-tutorial/#Introduction
-* http://web.stanford.edu/~zlotnick/TextAsData/Web_Scraping_with_Beautiful_Soup.html
+* [analystcave - web scraping tutorial](http://analystcave.com/web-scraping-tutorial/#Introduction)
+* [stanford - Beautiful Soup](http://web.stanford.edu/~zlotnick/TextAsData/Web_Scraping_with_Beautiful_Soup.html)
