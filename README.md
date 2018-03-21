@@ -42,3 +42,4 @@ Links interessantes:
 * [puppeteer - Headless Chrome Node API](https://github.com/GoogleChrome/puppeteer)
 * [CasperJS](http://casperjs.org/)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
+* [Python XML processing with lxml](http://infohost.nmt.edu/~shipman/soft/pylxml/web/index.html)
